@@ -1,5 +1,7 @@
-## bayesppt
-贝叶斯公式讲课ppt201903
+
+## 贝叶斯公式
+
+### 讲课ppt201903
 
 [video](https://github.com/leonStone/bayesppt/blob/master/obama.wmv)是ppt中需要用到的obama讲话视频。
 
